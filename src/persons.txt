@@ -1,0 +1,6 @@
+1,Andrei,Muresanu,afara,3,4,5.0,Tester
+9,Anton,Beton,Matasari,5,19,43.5,TeamLeader
+3,Anamaria,Roberta,Nicolae Iorga,5,24,23.5,Tester
+7,Alabama,Montana,Amerikka,1,9,23.8,ProjectManager
+2,Cristi,Cosma,Stejarului,3,9,23.0,Developer
+6,Eugen,Macelarul,Gh Doja,4,2,54.2,Tester
